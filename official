@@ -1,0 +1,28 @@
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body bgcolor="yellow">
+
+         <h1 align="center"> Welcome to<br>
+         eMela</h1>
+        <b>   <h1>   <table border="3" align="center"><tr><td>Home</td></tr></table>
+
+<h1></b>
+<br>
+<b><h1><table border="3" align="center"><tr><td>Product</td></tr></table>
+</h1></b>
+
+<h1></b>
+<br>
+<b><h1><table border="3" align="center"><tr><td>Contact us.</td></tr></table>
+</h1></b>
+
+</body>
+
+</html>
